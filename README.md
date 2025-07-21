@@ -7,3 +7,11 @@
 - Model saved using `joblib` for quick loading
 
 ## 📁 Project Structure
+Heart_disease_Prediction/
+├── heart_app.py # Main Streamlit app
+├── model_rf.pkl # Trained Random Forest model
+├── model_xgb.pkl # Trained XGBoost model
+├── requirements.txt # Required dependencies
+├── README.md # Project overview
+└── data/
+└── heart.csv # Dataset used for training
