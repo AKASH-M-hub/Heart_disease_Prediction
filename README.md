@@ -7,6 +7,7 @@
 - Model saved using `joblib` for quick loading
 
 ## 📁 Project Structure
+```
 Heart_disease_Prediction/
 ├── heart_app.py # Main Streamlit app
 ├── model_rf.pkl # Trained Random Forest model
@@ -15,3 +16,4 @@ Heart_disease_Prediction/
 ├── README.md # Project overview
 └── data/
 └── heart.csv # Dataset used for training
+```
